@@ -1,8 +1,7 @@
 # Alx HTML Advance
 
-This an adanced html project.
+This an advanced html project created from alx class.
 
-[Add badges and shields here if applicable]
 
 ## Project Overview
 
